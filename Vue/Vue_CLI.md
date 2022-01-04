@@ -1,4 +1,4 @@
-# aㅘVue CLI
+# Vue CLI
 
 ### SFC
 
